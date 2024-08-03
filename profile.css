@@ -1,0 +1,112 @@
+.oboi{
+  height: 200px;
+  width: 100%;
+  position: absolute;
+}
+*{
+    margin: 0%;
+}
+
+.pro{
+    position: absolute;
+    top: 130px;
+    left: 32%;
+}
+
+.inter{
+    font-size: 25px;
+    font-weight: 700;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: relative;
+    top: 280px;
+    left: 120px;
+}
+
+.pp{
+    position: relative;
+    top: 295px;
+    font-size: 15px;
+    font-weight: 500;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    left: 109px;
+    color: grey;
+}
+
+.inter_p{
+    font-size: 25px;
+    font-weight: 700;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: relative;
+    top: 320px;
+    left: 35px;
+}
+
+b{
+    color: grey;
+    margin-left: 25px;
+    margin-top: 15px;
+}
+
+.inter_pi{
+    font-size: 25px;
+    font-weight: 700;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: relative;
+    top: 320px;
+    left: 55%;
+}
+
+
+.glv{
+    display: flex;
+}
+
+.kub{
+    width: 90%;
+    height: 100px;
+    background: -webkit-linear-gradient(90deg, #2d9f1e,#007b8b,#0a4779);/* Chrome 10-25, Safari 5.1-6 */                          background: linear-gradient(90deg, #2d9f1e,#007b8b,#0a4779);/* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */                                             
+    margin-top: 350px;
+    border-radius: 20px;
+    margin-left: 20px;
+    display: flex;
+    bottom: 300px;
+    position: relative;
+}
+
+.lo{
+    width: 60px;
+    height: 60px;
+    margin: 5%;
+}
+
+.lit{
+    color: white;
+    font-size: 22px;
+    font-weight: 700;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 7%;
+    
+}
+
+.wolt{
+    width: 90%;
+    height: 100px;
+    border-radius: 30px;
+    border: none;
+    background: -webkit-linear-gradient(90deg, #5f61a8,#c44781,#d46022);/* Chrome 10-25, Safari 5.1-6 */                          background: linear-gradient(90deg, #5f61a8,#c44781,#d46022);/* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */                                             
+    color:azure;
+    font-size: 40px;
+    margin: 5%;
+    bottom: 300px;
+    position: relative;
+}
+
+.kol{
+    color: black;
+    font-size: 15px;
+    font-weight: 600;
+    margin-top: 370px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-left: 30px;
+    padding-right: 50px;
+}
